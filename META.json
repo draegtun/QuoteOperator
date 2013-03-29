@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "The singularity of QuoteLike Operators",
    "author" : [
       "Barry Walsh <draegtun@cpan.org>"
    ],
@@ -26,6 +26,7 @@
       },
       "runtime" : {
          "requires" : {
+            "PerlX::QuoteOperator" : "0.04",
             "perl" : "5.008005"
          }
       },

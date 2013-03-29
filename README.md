@@ -1,6 +1,6 @@
 # NAME
 
-QuoteOperator - Blah blah blah
+QuoteOperator - The singularity of QuoteLike Operators
 
 # SYNOPSIS
 
@@ -16,7 +16,7 @@ Barry Walsh <draegtun@cpan.org>
 
 # COPYRIGHT
 
-Copyright 2013- Barry Walsh
+Copyright 2013 Barry Walsh | Draegtun Systems Ltd
 
 # LICENSE
 
