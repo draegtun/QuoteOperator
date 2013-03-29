@@ -1,17 +1,18 @@
 package QuoteOperator;
-
 use strict;
+use warnings;
 use 5.008_005;
 our $VERSION = '0.01';
 
 1;
+
 __END__
 
 =encoding utf-8
 
 =head1 NAME
 
-QuoteOperator - Blah blah blah
+QuoteOperator - The singularity of QuoteLike Operators
 
 =head1 SYNOPSIS
 
@@ -27,7 +28,7 @@ Barry Walsh E<lt>draegtun@cpan.orgE<gt>
 
 =head1 COPYRIGHT
 
-Copyright 2013- Barry Walsh
+Copyright 2013 Barry Walsh | Draegtun Systems Ltd
 
 =head1 LICENSE
 
